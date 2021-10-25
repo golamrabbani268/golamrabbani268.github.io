@@ -3,11 +3,13 @@
   "global-search",
   "switcher",
   "graph",
-  "backlink",
+  "tag-pane",
   "page-preview",
   "note-composer",
   "command-palette",
+  "starred",
   "markdown-importer",
+  "outline",
   "open-with-default-app",
   "file-recovery"
 ]
