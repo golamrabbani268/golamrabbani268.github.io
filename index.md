@@ -1,11 +1,18 @@
 # Welcome to my website
 
 ## Notes
+* [Climate Change and Conservation](Notes/Climate Change and Conservation)
+* [Conservation Planning and Priorities](Notes/Conservation Planning and Priorities)
+* [Corridors and Habitat Connectivity](Notes/Corridors and Habitat Connectivity)
 * [Deliberative Choice Experiment (DeCE)](Notes/Deliberative Choice Experiment (DeCE))
 * [Deliberative Paradigm](Notes/Deliberative Paradigm)
 * [Ecosystem Service Concept](Notes/Ecosystem Service Concept)
+* [Forests and FIres](Notes/Forests and FIres)
+* [Habitat Fragmentation](Notes/Habitat Fragmentation)
 * [Instrumental Paradigm](Notes/Instrumental Paradigm)
 * [Lliso et al., 2020. Applying deliberative valuation in an indigineous community in Colombia](Notes/Lliso et al., 2020. Applying deliberative valuation in an indigineous community in Colombia)
+* [MCDA Simulation](Notes/MCDA Simulation)
+* [Metapopulation](Notes/Metapopulation)
 * [Multi Attribute Decision Making (MADM)](Notes/Multi Attribute Decision Making (MADM))
 * [Multi Criteria (Decision) Analysis (MC(D)A)](Notes/Multi Criteria (Decision) Analysis (MC(D)A))
 * [NeverNote](Notes/NeverNote)

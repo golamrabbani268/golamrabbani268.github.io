@@ -7,8 +7,11 @@
         "id": "227b468079481393",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Corridors and Habitat Connectivity.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Corridors and Habitat Connectivity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Corridors and Habitat Connectivity.md"
+              }
             }
           }
         ],
@@ -139,15 +145,15 @@
   },
   "active": "227b468079481393",
   "lastOpenFiles": [
+    "Corridors and Habitat Connectivity.md",
+    "Habitat Fragmentation.md",
+    "Metapopulation.md",
+    "Climate Change and Conservation.md",
+    "Forests and FIres.md",
+    "Conservation Planning and Priorities.md",
     "Multi Criteria (Decision) Analysis (MC(D)A).md",
-    "Ecosystem Service Concept.md",
     "Multi Attribute Decision Making (MADM).md",
-    "Deliberative Paradigm.md",
-    "Instrumental Paradigm.md",
-    "Raymond et al., 2014. Comparing instrumental and deliberative paradigms underpinning the assessment of social values for cultural ecosystem services.md",
-    "Deliberative Choice Experiment (DeCE).md",
-    "Lliso et al., 2020. Applying deliberative valuation in an indigineous community in Colombia.md",
-    "Payments for ecosystem services (PES).md",
-    "The 6 Most Important Keys to Typing in Markdown.md"
+    "MCDA Simulation.md",
+    "Ecosystem Service Concept.md"
   ]
 }
