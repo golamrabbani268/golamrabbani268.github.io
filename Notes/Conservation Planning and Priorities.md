@@ -30,4 +30,4 @@ The relationship/congruence between the priorities set for protection of one spe
 
 The extent to which conservation priorities represent not just current diversity but also evolutionary history.
 
-Global conservation prioritization concern intersection with human values.
+Global conservation prioritization concern intersection with human values. May also include concepts of [[Ecosystem Service Concept]].

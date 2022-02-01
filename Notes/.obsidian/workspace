@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "227b468079481393",
+        "id": "df5863202f4bb6c7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Corridors and Habitat Connectivity.md",
+            "file": "Concepts in Ecological Economics.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "climate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Corridors and Habitat Connectivity.md",
+                "file": "Concepts in Ecological Economics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Corridors and Habitat Connectivity.md"
+                "file": "Concepts in Ecological Economics.md"
               }
             }
           }
@@ -143,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "227b468079481393",
+  "active": "df5863202f4bb6c7",
   "lastOpenFiles": [
-    "Corridors and Habitat Connectivity.md",
-    "Habitat Fragmentation.md",
-    "Metapopulation.md",
-    "Climate Change and Conservation.md",
-    "Forests and FIres.md",
-    "Conservation Planning and Priorities.md",
+    "Concepts in Ecological Economics.md",
+    "Untitled.md",
+    "Climate Change.md",
+    "Life as a Video Game.md",
     "Multi Criteria (Decision) Analysis (MC(D)A).md",
-    "Multi Attribute Decision Making (MADM).md",
     "MCDA Simulation.md",
-    "Ecosystem Service Concept.md"
+    "Habitat Fragmentation.md",
+    "Forests and FIres.md",
+    "Metapopulation.md",
+    "Corridors and Habitat Connectivity.md"
   ]
 }
