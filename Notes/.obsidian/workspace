@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "df5863202f4bb6c7",
+        "id": "bee7c584528af690",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concepts in Ecological Economics.md",
-            "mode": "source"
+            "file": "Company Portfolios.md",
+            "mode": "source",
+            "backlinks": false
           }
         }
       }
@@ -78,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Concepts in Ecological Economics.md",
+                "file": "Company Portfolios.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts in Ecological Economics.md"
+                "file": "Company Portfolios.md"
               }
             }
           }
@@ -143,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df5863202f4bb6c7",
+  "active": "bee7c584528af690",
   "lastOpenFiles": [
-    "Concepts in Ecological Economics.md",
-    "Untitled.md",
+    "Company Portfolios.md",
+    "Corridors and Habitat Connectivity.md",
     "Climate Change.md",
+    "Concepts in Ecological Economics.md",
     "Life as a Video Game.md",
     "Multi Criteria (Decision) Analysis (MC(D)A).md",
     "MCDA Simulation.md",
     "Habitat Fragmentation.md",
     "Forests and FIres.md",
-    "Metapopulation.md",
-    "Corridors and Habitat Connectivity.md"
+    "Metapopulation.md"
   ]
 }
