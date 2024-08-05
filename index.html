@@ -60,9 +60,23 @@
 							<article id="projects">
 								<span class="image main"><img src="./images/projects_image.jpg" alt="" /></span>
 								
-								<h2 class="major">Blogs</h2>
+								<h2 class="major">Writings</h2>
 								<p>Visit my blog on topics of interest: <a target="_blank" href="https://thingsarecomplicated.substack.com/">Things Are Complicated</a>.</p>
-                                				<p>Visit my freewriting blog on real-life and fantastical adventures: <a target="_blank" href="https://fantasticadventures.substack.com/">Fantastic Adventures and How They Went</a>.</p>
+								<div id="substack-feed-embed"></div>
+									<script>
+									  window.SubstackFeedWidget = {
+									    substackUrl: "thingsarecomplicated.substack.com",
+									    posts: 2,
+									    layout: "center",
+									    hidden: ["image", "author", "premium", "comments", "reactions"],
+									    colors: {
+									      primary: "#FFFFFF",
+									      secondary: "#ACACAC",
+									      background: "#1B1F22",
+									    }
+									  };
+									</script>
+									<script src="https://substackapi.com/embeds/feed.js" async></script>
 								
 								<h2 class="major">Projects</h2>
 								<p><a target="_blank" href="https://drive.google.com/file/d/12vO7PV9soPytrRacxhiPpMXMB6A5s2Mg/view?usp=sharing">What About The Meat?</a> An investigation of illegal and unsustainable trading practices of shark meat in Singapore (Undergraduate Capstone Thesis Project)</p>
